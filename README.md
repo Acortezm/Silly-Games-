@@ -1,2 +1,7 @@
-# Silly-Games-
- This repository is a delightful collection of simple games that I created in my spare time to sharpen my coding skills. Inspired by seeing others’ creations, I decided to dive in and give it a shot! Coding while grooving to my favorite tunes makes the process even more enjoyable.
+# Easy Games Repository
+Description: Welcome to my little corner of gaming fun! 🎮 This is a collection of simple games I whipped up during my free time—not just to flex my coding skills but also because I saw someone else do it and thought, “Hey, I can totally pull that off!” Plus, there’s nothing like jamming to some music while replicating these games to make coding feel like a party. So grab a snack, and let’s play!
+
+# Technologies Used:
+
+JavaScript
+HTML/CSS
